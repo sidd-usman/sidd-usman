@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Usman</h1>
-<h3 align="center">👋 Hi there! I'm a Full Stack Software Engineer with 5 years of experience specializing in building high-quality, scalable web applications. I have a strong background in both front-end and back-end technologies, including Angular, React JS, and .NET Core. My expertise also spans across SQL databases, RESTful APIs, and modern CI/CD practices.</h3>
+<h3>👋 Hi there! I'm a Full Stack Software Engineer with 5 years of experience specializing in building high-quality, scalable web applications. I have a strong background in both front-end and back-end technologies, including Angular, React JS, and .NET Core. My expertise also spans across SQL databases, RESTful APIs, and modern CI/CD practices.</h3>
 
 <h3> 🌟 Throughout my career, I have been committed to delivering exceptional results with a 100% client satisfaction rate. I have successfully completed numerous projects for various clients, ranging from startups to large enterprises. I thrive in both team environments and solo projects, adapting quickly to new technologies and challenges.</h3> 
   
