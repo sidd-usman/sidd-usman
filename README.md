@@ -5,7 +5,10 @@
   
 <h3> 🔍 On this platform, you will find a range of projects showcasing my technical versatility and my passion for combining usability with visual design. From dynamic single-page applications (SPAs) to robust and secure backend solutions, each repository reflects my dedication to code quality and best practices. </h3>
   
-<h3> 📈 I am constantly learning and evolving as a developer, seeking out new tools and techniques to enhance my skills and deliver even better results for my clients. Feel free to explore my repositories, leave feedback, or reach out if you're interested in collaborating on a project. Let's build something amazing together!</h3>
+<h3> 📈 I am constantly learning and evolving as a developer, seeking out new tools and techniques to enhance my skills and deliver even better results for my clients. Feel free to explore my repositories, leave feedback, or reach out if you're interested in collaborating on a project. </h3>
+  
+  
+<h3> Let's build something amazing together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd-usman&label=Profile%20views&color=0e75b6&style=flat" alt="sidd-usman" /> </p>
 
